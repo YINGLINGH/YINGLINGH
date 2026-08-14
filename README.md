@@ -1,10 +1,10 @@
 <div align="center">
   <img src="./assets/moonlit-ai-banner.jpg" width="100%" alt="Moonlit AI developer banner" />
 
-  <h1>Hi, I'm YINGLINGH 馃寵</h1>
+  <h1>Hi, I'm YINGLINGH 🌙</h1>
 
   <p>
-    <strong>AI Developer 路 Embodied Intelligence Explorer 路 Graduate Student 路 Indie Hacker</strong>
+    <strong>AI Developer · Embodied Intelligence Explorer · Graduate Student · Indie Hacker</strong>
   </p>
 
   <p><em>Building agents that can perceive, reason, remember, and act.</em></p>
@@ -29,11 +29,11 @@ class YINGLINGH:
     philosophy = "Turn intelligence into systems that act in the real world."
 ```
 
-- 馃敪 Currently building **[Limioryn](https://github.com/YINGLINGH/Limioryn)**
-- 馃 Exploring agent orchestration, memory, tool use, and embodied AI applications
-- 馃 Working with **LangChain**, **LangGraph**, and **Deep Agents**
-- 馃尡 Learning through research, experiments, and shipping independent projects
-- 馃挰 Open to conversations about agents, robotics, and human鈥揂I collaboration
+- 🔭 Currently building **[Limioryn](https://github.com/YINGLINGH/Limioryn)**
+- 🤖 Exploring agent orchestration, memory, tool use, and embodied AI applications
+- 🧠 Working with **LangChain**, **LangGraph**, and **Deep Agents**
+- 🌱 Learning through research, experiments, and shipping independent projects
+- 💬 Open to conversations about agents, robotics, and human–AI collaboration
 
 ### Featured project
 
@@ -55,7 +55,7 @@ class YINGLINGH:
 
 <div align="center">
 
-`Python` 路 `LangChain` 路 `LangGraph` 路 `Deep Agents` 路 `Embodied AI` 路 `LLM Applications`
+`Python` · `LangChain` · `LangGraph` · `Deep Agents` · `Embodied AI` · `LLM Applications`
 
 </div>
 
@@ -73,9 +73,9 @@ class YINGLINGH:
 ---
 
 <div align="center">
-  <em>鈥淭he moon does not compete with the night. It simply illuminates its path.鈥?/em>
+  <em>“The moon does not compete with the night. It simply illuminates its path.”</em>
   <br /><br />
   <a href="https://github.com/YINGLINGH">Follow the journey</a>
-  &nbsp;路&nbsp;
+  &nbsp;·&nbsp;
   <a href="https://github.com/YINGLINGH/Limioryn/issues">Talk about Limioryn</a>
 </div>
